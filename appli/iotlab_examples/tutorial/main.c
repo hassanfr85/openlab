@@ -22,7 +22,7 @@
 
 // choose channel in [11-26]
 #define CHANNEL 11
-#define RADIO_POWER PHY_POWER_0dBm
+#define RADIO_POWER PHY_POWER_3dBm
 
 #define ADDR_BROADCAST 0xFFFF
 
